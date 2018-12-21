@@ -1,0 +1,35 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#label1, #label2, #label3, #label4, #label5, #label6, #label7 {
+	font-size: 13px;
+	text-align: center;
+}
+
+.labels {
+	text-align: center;
+	font-size: 15px;
+}
+
+
+#geninfo {
+  width: 100px;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+}
+td#table1 {
+	box-shadow: -3px -3px 18px 1px rgba(43,41,43,1);
+}
+
